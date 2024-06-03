@@ -1,0 +1,1 @@
+python earthquake_notify.py %1 %2
