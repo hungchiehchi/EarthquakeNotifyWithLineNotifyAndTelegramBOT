@@ -4,6 +4,9 @@
 
 當地震發生時，本程式會自動向指定的 LINE 和 Telegram 群組或用戶發送通知，提醒地震來了。
 
+![地震通知程式](images/LINE.PNG)
+![地震通知程式](images/TELEGRAM.PNG)
+
 ## 功能
 - 自動接收 地牛 Wake Up! 地震警報
 - 通過 LINE NOTIFY 發送地震通知
